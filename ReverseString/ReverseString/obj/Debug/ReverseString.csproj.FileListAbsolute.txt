@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\lenovo\source\repos\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\lenovo\source\repos\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\lenovo\source\repos\ReverseString\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\lenovo\source\repos\ReverseString\ReverseString\obj\Debug\ReverseString.pdb
